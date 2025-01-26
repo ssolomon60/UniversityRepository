@@ -5,7 +5,7 @@ This software allows users to interact with a database that stores details about
 
 The purpose of writing this software is to gain hands-on experience with SQL database design, data modeling, and writing efficient SQL queries. It provides an opportunity to simulate a real-world application and explore best practices for relational database management.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtube.com/shorts/nqZZTJzES7A))
 
 # Relational Database
 The relational database used for this project is designed to store and manage information related to students, courses, instructors, and enrollments. 
